@@ -1,6 +1,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tsuguring&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tsuguring&count_private=true&show_icons=true&theme=algolia" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsuguring" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsuguring&layout=compact&theme=algolia" />
 </a>
